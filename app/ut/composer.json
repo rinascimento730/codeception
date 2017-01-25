@@ -21,7 +21,7 @@
     "require-dev": {
         "fuel/docs": "1.8.*",
         "codeception/codeception": "*",
-        "codeception/aspect-mock": "*"
+        "codeception/aspect-mock": "1.*"
     },
     "suggest": {
         "dwoo/dwoo" : "Allow Dwoo templating with the Parser package",
