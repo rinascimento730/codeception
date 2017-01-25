@@ -2,10 +2,10 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>ログイン</title>
+	<title>新規ユーザー作成結果</title>
 </head>
 <body>
 	<h1><?php echo $result; ?></h1>
-    <a href="./">戻る</a>
+    <a href="/user/regist/">戻る</a>
 </body>
 </html>

@@ -2,10 +2,9 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>ログイン</title>
+	<title>ログインしているか</title>
 </head>
 <body>
-	<h1>Login Failed.</h1>
-    <a href="/user/login/">戻る</a>
+	<p><?php echo $result; ?></p>
 </body>
 </html>

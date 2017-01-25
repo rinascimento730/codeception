@@ -5,8 +5,8 @@
 	<title>ログイン</title>
 </head>
 <body>
-	<form action="result" method="post">
-		<input type="email" name="user_name" id="user_name">
+	<form action="/user/result/" method="post">
+		<input type="text" name="username" id="username">
 		<input type="password" name="password" id="password">
 		<input type="submit" name="login" id="login">
 	</form>
