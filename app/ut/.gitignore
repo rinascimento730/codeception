@@ -33,4 +33,4 @@ desktop.ini
 /fuel/app/config/crypt.php
 /fuel/app/tmp/
 
-tests/_output/*
+/fuel/tests/_output/
